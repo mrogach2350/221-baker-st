@@ -18,4 +18,4 @@ Simple React SPA to simplify gameplay of the Sherlock Holmes themed board game *
 Access source code for the project on [GitHub][2]
 
 [1]: https://www.google.com
-[2]: https://www.google.com
+[2]: https://github.com/mrogach2350/221-baker-st
