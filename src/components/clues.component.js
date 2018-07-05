@@ -49,6 +49,7 @@ class Clues extends Component {
 
         return (
             <div>
+                <br/>
                 <form onSubmit={this.handleSubmit}>
                     <label>
                     Clue #:
