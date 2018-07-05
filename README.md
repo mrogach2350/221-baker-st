@@ -1,4 +1,4 @@
-# Clues for 221 B Baker St
+# Clues for 221 B Baker St :mag:
 ***
 
 Simple React SPA to simplify gameplay of the Sherlock Holmes themed board game **221 B Baker St**
